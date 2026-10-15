@@ -1,0 +1,213 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "zk_guess",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "zk_guess (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "zk_guess (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "mopro_flutter",
+            "cwd": "mopro_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mopro_flutter (profile mode)",
+            "cwd": "mopro_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mopro_flutter (release mode)",
+            "cwd": "mopro_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "example",
+            "cwd": "mopro_flutter\\example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example (profile mode)",
+            "cwd": "mopro_flutter\\example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "example (release mode)",
+            "cwd": "mopro_flutter\\example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "starknet.dart",
+            "cwd": "packages\\starknet.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "nft_marketplace",
+            "cwd": "packages\\starknet.dart\\examples\\nft_marketplace",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "nft_marketplace (profile mode)",
+            "cwd": "packages\\starknet.dart\\examples\\nft_marketplace",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "nft_marketplace (release mode)",
+            "cwd": "packages\\starknet.dart\\examples\\nft_marketplace",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "starknet_counter",
+            "cwd": "packages\\starknet.dart\\examples\\starknet_counter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starknet_counter (profile mode)",
+            "cwd": "packages\\starknet.dart\\examples\\starknet_counter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "starknet_counter (release mode)",
+            "cwd": "packages\\starknet.dart\\examples\\starknet_counter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "wallet_app",
+            "cwd": "packages\\starknet.dart\\examples\\wallet_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "wallet_app (profile mode)",
+            "cwd": "packages\\starknet.dart\\examples\\wallet_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "wallet_app (release mode)",
+            "cwd": "packages\\starknet.dart\\examples\\wallet_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "ark_project",
+            "cwd": "packages\\starknet.dart\\packages\\ark_project",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "avnu_provider",
+            "cwd": "packages\\starknet.dart\\packages\\avnu_provider",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "secure_store",
+            "cwd": "packages\\starknet.dart\\packages\\secure_store",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "secure_store (profile mode)",
+            "cwd": "packages\\starknet.dart\\packages\\secure_store",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "secure_store (release mode)",
+            "cwd": "packages\\starknet.dart\\packages\\secure_store",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "starklints",
+            "cwd": "packages\\starknet.dart\\packages\\starklints",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starknet",
+            "cwd": "packages\\starknet.dart\\packages\\starknet",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starknet_cli",
+            "cwd": "packages\\starknet.dart\\packages\\starknet_cli",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starknet_provider",
+            "cwd": "packages\\starknet.dart\\packages\\starknet_provider",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "wallet_kit",
+            "cwd": "packages\\starknet.dart\\packages\\wallet_kit",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "wallet_kit (profile mode)",
+            "cwd": "packages\\starknet.dart\\packages\\wallet_kit",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "wallet_kit (release mode)",
+            "cwd": "packages\\starknet.dart\\packages\\wallet_kit",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "wallet_provider",
+            "cwd": "packages\\starknet.dart\\packages\\wallet_provider",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

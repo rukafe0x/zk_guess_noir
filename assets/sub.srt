@@ -1,0 +1,95 @@
+1
+00:00:00,000 --> 00:00:01,400
+Hi! Check out my first ZK Game: Snarks and Starks United.
+
+2
+00:00:01,400 --> 00:00:02,800
+The UI is still a work in progress.
+
+3
+00:00:02,800 --> 00:00:04,200
+This is a ZK Extrasensory Perception game.
+
+4
+00:00:04,200 --> 00:00:05,600
+You and your friends can have fun playing against each other.
+
+5
+00:00:05,600 --> 00:00:07,000
+Here's how it works:
+
+6
+00:00:07,000 --> 00:00:09,800
+John has loaded the app and will create an account.
+
+7
+00:00:09,800 --> 00:00:13,867
+The onboarding is easy and clean for users (no private keys or seed phrases).
+
+8
+00:00:13,867 --> 00:00:17,933
+John just needs to press a button and set his nickname to create (and, in the background, deploy) his Starknet account.
+
+9
+00:00:17,933 --> 00:00:22,000
+Then, to create a game, we copy the account address and fund the wallet.
+
+10
+00:00:22,000 --> 00:00:31,000
+Now we set the bet amount for this game.
+
+11
+00:00:31,200 --> 00:00:36,500
+And choose our secret number.
+
+12
+00:00:37,500 --> 00:00:57,000
+Finally, we approve our entry fee to register the game and place our bet on Starknet (hashed commitment).
+
+13
+00:00:57,500 --> 00:01:02,000
+Now, let's tell our friend Mike to play with us.
+
+14
+00:01:02,500 --> 00:01:16,000
+For onboarding, he must create his new account.
+
+15
+00:01:19,000 --> 00:01:35,000
+And fund his new account to join a game using John's Game ID.
+
+16
+00:01:39,500 --> 00:01:55,000
+Now Mike sets his own secret number and joins our game.
+
+17
+00:02:07,000 --> 00:02:09,000
+Now John will try to guess Mike's secret number.
+
+18
+00:02:13,500 --> 00:02:24,000
+Using his paranormal powers, he believes it is 11.
+
+19
+00:02:30,000 --> 00:02:45,500
+Now Mike receives the guess and checks whether the number is correct.
+
+20
+00:02:58,500 --> 00:03:00,500
+John failed, so now Mike will try to guess John's secret number.
+
+21
+00:03:05,500 --> 00:03:14,000
+Mike believes that John's secret number is 55.
+
+22
+00:03:21,000 --> 00:03:30,500
+Now John receives the number, creates the proof, and sends it to the blockchain for verification.
+
+23
+00:03:41,500 --> 00:03:44,000
+Bad luck for John!! Mike has stronger ESP powers.
+
+24
+00:03:48,000 --> 00:03:57,000
+Mike wins and claims his reward!...:)
